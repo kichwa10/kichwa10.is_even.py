@@ -1,0 +1,1 @@
+# kichwa10.is_even.py
